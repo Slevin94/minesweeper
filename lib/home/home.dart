@@ -93,7 +93,7 @@ class _HomeState extends State<Home> {
                 ),
                 Expanded(child: Image.asset('assets/images/minesweeper.png')),
                 Text(
-                  ' Minesweeper',
+                  'Minesweeper',
                   style: TextStyle(
                       fontSize: 50, fontFamily: 'Command', color: Colors.white),
                 ),
